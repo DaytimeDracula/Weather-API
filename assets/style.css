@@ -1,0 +1,22 @@
+:root{
+--Light: #D3D3D3
+}
+
+
+hr {
+    border-top: 2px solid var(--Light);
+}
+
+.hidden {
+    display: none;
+}
+
+.city-button {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid var(--Light);
+    background-color: var(--Light);
+    padding: 5px 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
